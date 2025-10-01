@@ -8,7 +8,7 @@
 
 # Tecnologias
 
--Html, Css, JavaScript, Readme, banco de dados. 
+- Html, Css, JavaScript, Readme, banco de dados. 
 
 # Como usar 
 
