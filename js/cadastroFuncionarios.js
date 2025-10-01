@@ -30,7 +30,7 @@ document.getElementById("btnEnviar").addEventListener("click", async function() 
         try{
             const ref = await addDoc(collection (db, "funcionarios"), dados)
             console.log("ID do documento", ref.id)
-            alert("funcionarios cadastrado com sucesso")
+            alert("Funcionario cadastrado com sucesso")
         }catch(erro){
             console.log("erro:", e)
             alert("Erro ao cadastrar funcionario")
